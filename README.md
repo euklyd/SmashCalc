@@ -10,16 +10,20 @@ Steals frame data from the KuroganeHammer API to calculate nice things like knoc
 ***Contact***  
 **Discord:** euklyd (FE)#3650 *(preferred method)*  
 **Twitter:** [http://twitter.com/euklydia](http://twitter.com/euklydia) *(rarely used, but I do check it)*  
-**Email:** euklyd *(dot)* sf *(at)* gmail.com  
+**Email:** euklyd *(dot)* sf *(at)* gmail.com
 
+***About***
 
-Super barebones applet to calculate knockback and hitstun. Pulls from the KuroganeHammer API. KuroganeHammer and Frannsoft are absolute saints; I can't believe such a convenient API exists.  
-Coded up in about two evenings, and I've never made a GUI anything before, so it's really ugly right now
-(Euklyd with the sick pre-johns).
+Super barebones applet to calculate knockback and hitstun. Pulls from the KuroganeHammer API. KuroganeHammer and Frannsoft are both absolute saints; I can't believe such a convenient API exists.  
+Coded up in about two evenings, and I've never made a GUI anything before, so it's really ugly right now (Euklyd with the sick pre-johns).
 
 Formulas and credits: http://kuroganehammer.com/Smash4/Formulas  
 API documentation: https://github.com/Frannsoft/FrannHammer/wiki  
 Livedocs: http://api.kuroganehammer.com/swagger/ui/index
+
+***Usage Instructions***
+
+This program requires Python 3.5 or better (3.5.2 at last update), which you can get for free from [the official Python website](https://www.python.org/downloads/).
 
 ***
 
